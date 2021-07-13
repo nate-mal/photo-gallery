@@ -17,7 +17,6 @@
 }
 
 input[type=search] {
-  grid-area: search;
   width: 40%;
   height: 45px;
   margin: 15px auto 15px;
