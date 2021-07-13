@@ -3,7 +3,7 @@
     width: 90%;
     margin: 0 auto 0;
 
-    // display: grid;
-    // grid-template-areas: 'search'
-    //                      'gallery';
+   display: flex;
+   flex-direction: column;
+
 }
