@@ -1,9 +1,4 @@
-.container {
-  max-width: 1020px;
-  width: 90%;
-  margin: 0 auto 0;
-}
-
+@import '../node_modules/baguettebox.js/dist/baguetteBox.min.css';
 .container {
   max-width: 1020px;
   width: 90%;
@@ -16,7 +11,7 @@
   justify-content: center;
   grid-template-columns: repeat(auto-fit, 200px);
   grid-auto-rows: 200px;
-  gap: 15px 20px;
+  gap: 25px 25px;
 }
 
 /*# sourceMappingURL=main.css.map */
