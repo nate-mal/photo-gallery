@@ -4,7 +4,7 @@ const baguetteBox = require('baguettebox.js');
 
 baguetteBox.run('.gallery');
 
-
+const search = new Filter('search', 'data-caption');
 
 },{"baguettebox.js":2}],2:[function(require,module,exports){
 /*!
