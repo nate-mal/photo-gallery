@@ -1,0 +1,12 @@
+.container {
+    max-width: $max-width;
+    width: 90%;
+    margin: 0 auto 0;
+}
+
+.gallery {
+display: grid;
+max-width: $max-width;
+grid-template-columns: repeat(auto-fit, 1fr);
+grid-auto-rows: auto;
+}
