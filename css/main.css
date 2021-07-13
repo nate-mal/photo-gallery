@@ -4,6 +4,12 @@
   margin: 0 auto 0;
 }
 
+.container {
+  max-width: 1020px;
+  width: 90%;
+  margin: 0 auto 0;
+}
+
 .gallery {
   max-width: 1020px;
   display: grid;
