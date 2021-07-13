@@ -14,4 +14,13 @@
   gap: 25px 25px;
 }
 
+input[type=search] {
+  grid-area: search;
+  width: 40%;
+  height: 45px;
+  margin: 15px auto 15px;
+  border-radius: 5px;
+  border: 2px solid lightgray;
+}
+
 /*# sourceMappingURL=main.css.map */
