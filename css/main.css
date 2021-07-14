@@ -1,6 +1,6 @@
 @import '../node_modules/baguettebox.js/dist/baguetteBox.min.css';
 .container {
-  max-width: 1020px;
+  max-width: 1024px;
   width: 90%;
   margin: 0 auto 0;
   display: flex;
@@ -8,7 +8,7 @@
 }
 
 .gallery {
-  max-width: 1020px;
+  max-width: 1024px;
   display: grid;
   justify-content: center;
   grid-template-columns: repeat(auto-fit, 200px);
