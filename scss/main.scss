@@ -1,7 +1,5 @@
+@import "partials/utilities/variables.scss",
+  "partials/components/containers.scss", "partials/components/gallery.scss",
+  "partials/components/search.scss";
 
-@import 'partials/utilities/variables.scss',
-        'partials/components/containers.scss',
-        'partials/components/gallery.scss',
-        'partials/components/search.scss';
-
-@import '../node_modules/baguettebox.js/dist/baguetteBox.min.css';
+@import "../node_modules/baguettebox.js/dist/baguetteBox.min.scss";
